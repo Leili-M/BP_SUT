@@ -89,7 +89,7 @@
 <ol align="right" style="direction: rtl">
   <li align="right">
     ثبت سفارش جدید
-    <ul align="right">
+    <ul align="right" style="direction: rtl">
       <li align="right">
         o نمایش لیست کالاها به همراه قیمت‌ها.(هر کالا شامل یک کد منحصر به فرد
         است می تواند برای انتخاب کالا ها توسط مشتری از کد آن ها استفاده نمایید.)
