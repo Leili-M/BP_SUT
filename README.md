@@ -170,7 +170,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" />
 <h3 align="right">کلاس های اصلی</h3>
 <h4 align="right" style = "direction : rtl">
-  کلاس User: پایه‌ای برای ارث‌بری توسط کلاس‌های Admin و Customer.
+  User : کلاس های ادمین و مشتری از این کلاس ویژگی های مشترک خود را ارث می برند.
 </h4>
 <ul style="direction: rtl">
   <li>ادمین</li>
@@ -185,7 +185,7 @@
   بهبود عملکرد سیستم بلامانع است. همچنین قابلیت برگشت به عقب نیز وجو داشته باشد
 </p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" />
-<h3 align="right  style = "direction: rtl">CLI دستورات ورودی در  </h3>
+<h3 align="right"  style = "direction: rtl">CLI دستورات ورودی در  </h3>
 <p align="right" style = "direction : rtl">
   برای استفاده از دستورات ورود به سیستم می توانید از شرط ها برای parse کردن
   استفاده کنید یا می توانید برای سادگی و راحتی کار از کتاب خانه argparser
