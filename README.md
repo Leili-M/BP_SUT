@@ -169,10 +169,8 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" />
 <h3 align="right">کلاس های اصلی</h3>
-<h4 align="right" style = "direction : rtl">
-  User : کلاس های ادمین و مشتری از این کلاس ویژگی های مشترک خود را ارث می برند.
-</h4>
 <ul style="direction: rtl">
+  <li> User : کلاس های ادمین و مشتری از این کلاس ویژگی های مشترک خود را ارث می برند.<\li>
   <li>ادمین</li>
   <li>مشتری</li>
   <li>کالا</li>
