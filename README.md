@@ -145,7 +145,7 @@
     اضافه کردن کالا جدید
     <ul>
       <li>
-        دمین با وارد کردن کد منحصر به فرد برای کالای جدید، در صورت نبود آن در
+        ادمین با وارد کردن کد منحصر به فرد برای کالای جدید، در صورت نبود آن در
         سیستم، می‌تواند آن را به فروشگاه اضافه کند.
       </li>
       <li>همچنین اطلاعات مربوط به قیمت و موجودی اولیه کالا را تعیین می‌کند.</li>
@@ -169,7 +169,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" />
 <h3 align="right">کلاس های اصلی</h3>
-<h4 align="right">
+<h4 align="right" style = "direction : rtl">
   کلاس User: پایه‌ای برای ارث‌بری توسط کلاس‌های Admin و Customer.
 </h4>
 <ul style="direction: rtl">
@@ -185,21 +185,21 @@
   بهبود عملکرد سیستم بلامانع است. همچنین قابلیت برگشت به عقب نیز وجو داشته باشد
 </p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" />
-<h3 align="right  style = "direction: rtl">CLI دستورات ورودی در  :</h3>
+<h3 align="right  style = "direction: rtl">CLI دستورات ورودی در  </h3>
 <p align="right" style = "direction : rtl">
   برای استفاده از دستورات ورود به سیستم می توانید از شرط ها برای parse کردن
   استفاده کنید یا می توانید برای سادگی و راحتی کار از کتاب خانه argparser
   استفاده کنید.اما به این نکته توجه داشته باشید که عدم استفاده از کتاب خانه باعث
   یادگیری بهتر شما خواهد شد.
 </p>
-<h3 align="right">نمایش جداول:</h3>
+<h3 align="right">نمایش جداول</h3>
 <p align="right"  style="direction: rtl">
   براش نمایش جداول موجود در پروژه مانند لیست محصولات و ... برای زیبایی بهتر از
   کتاب خانه tabulate استفاده کنید.
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" />
-<h3 align="right">جداول مورد نیاز پایگاه داده:</h3>
+<h3 align="right">جداول مورد نیاز پایگاه داده</h3>
 <ol align="right" style="direction: rtl">
   <li align="right">
     جدول users برای مدیریت کاربران : این جدول علاوه بر ستون های username و
