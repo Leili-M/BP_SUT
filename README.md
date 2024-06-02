@@ -123,7 +123,7 @@
       </li>
     </ul>
   </li>
-  <li align="right">
+  <li align="right" style = "list-style-type:none;">
     تاریخچه سفارشات:نمایش تمام سفارشات گذشته مشتری به همراه مبلغ پرداخت شده و
     تاریخ
   </li>
@@ -232,5 +232,5 @@
 <br />
 <p align="left">
   Created by
-  <a href="http://supun.traditionalme.life">SUT BP TA Team </a>
+  <a href=#>Project Team</a>
 </p>
