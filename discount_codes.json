@@ -1,0 +1,28 @@
+{
+    "CODE1001": {"expiry_date": "2024-12-31", "discount_percentage": 10},
+    "CODE1002": {"expiry_date": "2022-06-30", "discount_percentage": 15},
+    "CODE1003": {"expiry_date": "2020-11-15", "discount_percentage": 20},
+    "CODE1004": {"expiry_date": "2023-01-01", "discount_percentage": 5},
+    "CODE1005": {"expiry_date": "2024-07-22", "discount_percentage": 25},
+    "CODE1006": {"expiry_date": "2025-08-09", "discount_percentage": 18},
+    "CODE1007": {"expiry_date": "2021-10-10", "discount_percentage": 10},
+    "CODE1008": {"expiry_date": "2025-09-05", "discount_percentage": 30},
+    "CODE1009": {"expiry_date": "2022-02-20", "discount_percentage": 12},
+    "CODE1010": {"expiry_date": "2024-12-25", "discount_percentage": 15},
+    "CODE1011": {"expiry_date": "2025-05-15", "discount_percentage": 20},
+    "CODE1012": {"expiry_date": "2020-04-30", "discount_percentage": 22},
+    "CODE1013": {"expiry_date": "2024-08-15", "discount_percentage": 10},
+    "CODE1014": {"expiry_date": "2021-07-08", "discount_percentage": 25},
+    "CODE1015": {"expiry_date": "2022-03-01", "discount_percentage": 30},
+    "CODE1016": {"expiry_date": "2023-05-20", "discount_percentage": 15},
+    "CODE1017": {"expiry_date": "2022-11-22", "discount_percentage": 18},
+    "CODE1018": {"expiry_date": "2018-12-20", "discount_percentage": 20},
+    "CODE1019": {"expiry_date": "2024-06-05", "discount_percentage": 12},
+    "CODE1020": {"expiry_date": "2024-01-15", "discount_percentage": 10},
+    "CODE1021": {"expiry_date": "2023-09-30", "discount_percentage": 15},
+    "CODE1022": {"expiry_date": "2020-03-31", "discount_percentage": 25},
+    "CODE1023": {"expiry_date": "2019-10-20", "discount_percentage": 17},
+    "CODE1024": {"expiry_date": "2024-08-31", "discount_percentage": 13},
+    "CODE1025": {"expiry_date": "2021-02-28", "discount_percentage": 20}
+  }
+  
